@@ -1,6 +1,6 @@
 # Public-Expenditure-on-Education
 
-The SIRP-Code.py is a part of a research project developed for understanding the trends and analysis of public expenditure on education. 
+The SIRP-CODE.py is a part of a research project developed for understanding the trends and analysis of public expenditure on education. 
 
 The code provides the following
 1. Use of Functions. 
