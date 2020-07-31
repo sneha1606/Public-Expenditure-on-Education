@@ -1,5 +1,8 @@
 # Public-Expenditure-on-Education
 
+*Introduction:*
+Public expenditure is referred to as the expenditure incurred by the central government. The purpose of this study is to understand the public expenditure on education. The youth in India hold the major population. And thus education is considered to play a vital role in the development of the country. These analysis aimed to understand the pattern of the spending of the public expenditure that is being dedicated on the educational sector. The research carried out is a secondary research, and the data gathered for the conclusion and the analysis has been taken from trusted sources and public sites.  Statistical methods have been used to derive at the conclusion from the data obtained.
+
 The SIRP-CODE.py is a part of a research project developed for understanding the trends and analysis of public expenditure on education. 
 
 The code provides the following
